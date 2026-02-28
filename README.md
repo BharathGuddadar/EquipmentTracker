@@ -3,6 +3,7 @@
 # Equipment Management System
 
 A full-stack web application to manage equipment and their maintenance lifecycle.
+<img width="1645" height="1079" alt="Screenshot 2026-02-28 130159" src="https://github.com/user-attachments/assets/31152c78-7d62-4a32-a762-2af2add43b7e" />
 
 This project is structured as a monorepo with:
 
