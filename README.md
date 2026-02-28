@@ -1,11 +1,3 @@
-Equipment Management System
-Create:
-
-```
-README.md
-```
-
-Paste this:
 
 ```md
 # Equipment Management System
