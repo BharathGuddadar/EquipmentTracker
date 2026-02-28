@@ -1,5 +1,5 @@
 
-```md
+
 # Equipment Management System
 
 A full-stack web application to manage equipment and their maintenance lifecycle.
@@ -34,7 +34,6 @@ This project is structured as a monorepo with:
 
 # 📦 Project Structure
 
-```
 
 /backend
 /frontend
@@ -42,7 +41,6 @@ This project is structured as a monorepo with:
 README.md
 COMPLIANCE.md
 
-````
 
 ---
 
